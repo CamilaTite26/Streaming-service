@@ -1,41 +1,39 @@
-Video Streaming Management System
-This is a project I created for my Object-Oriented Programming class. The goal was to design and implement a system to manage different types of videos, including movies and series with episodes, using key OOP concepts such as inheritance, polymorphism, method overloading/overriding, and abstract classes.
+# Video Management Project
 
-What it does
-Loads movies and series data (with episodes) from text files.
+This project was developed as part of my Object-Oriented Programming class.  
 
-Allows users to view videos filtered by rating or genre.
+It is a simple application that manages videos, including movies and TV series with their episodes. The program allows users to:
 
-Shows episodes of a specific series with a minimum rating.
+- Load video data from files
+- Display videos filtered by rating or genre
+- Show episodes of a specific series with a minimum rating
+- Show movies with a minimum rating
+- Rate a video by its title and update its rating
 
-Lets users add ratings to movies or individual episodes.
+## Features
 
-Demonstrates use of advanced OOP features like operator overloading and exception handling.
+- Implementation of inheritance and polymorphism with abstract classes
+- Data encapsulation with proper access modifiers
+- Overriding and overloading of methods
+- Operator overloading (where applicable)
+- Input validation for menu options and ratings
+- Reading video and episode data from external files
 
-Technologies and concepts
-Written in C++
+## File Structure
 
-Uses classes, inheritance, and polymorphism
+- `Video.h` and `Video.cpp` — Abstract base class defining common video properties
+- `Movie.h` and `Movie.cpp` — Class representing movies
+- `Serie.h` and `Serie.cpp` — Class representing TV series containing episodes
+- `Episode.h` and `Episode.cpp` — Class representing episodes, inheriting from Video
+- `main.cpp` — Contains the main menu and program logic
 
-Applies encapsulation with proper access modifiers
+## How to Use
 
-Implements abstract base classes and overrides methods
+1. Prepare the data files (`movies.txt` and `series_and_episodes.txt`) with the required format.
+2. Compile the program using a C++ compiler.
+3. Run the executable and use the menu to load data, display videos, and rate them.
 
-Overloads operators in custom classes
+## Author
 
-Handles user input validation and exceptions
+This project was created by Camila Tite for the Object-Oriented Programming course.
 
-How to run
-Compile all the .cpp files together.
-
-Make sure the data files (series_and_episodes.txt and BaseDeDatos_Peliculas.txt) are in the same folder.
-
-Run the executable and follow the menu options.
-
-File format example
-series_and_episodes.txt contains series and episode data including ratings.
-
-BaseDeDatos_Peliculas.txt contains movie data including ratings.
-
-About me
-I’m currently studying Robotics Engineering and Digital Systems, and this project helped me improve my understanding of OOP principles while practicing C++ programming.
