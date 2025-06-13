@@ -1,0 +1,16 @@
+# ninja log v6
+29	704	7714920389791911	CMakeFiles/Streaming_service.dir/Movie.cpp.obj	78c6c157aca1e4e5
+60	829	7714920390115505	CMakeFiles/Streaming_service.dir/Video.cpp.obj	bddb8cf7387aefc8
+7	832	7714920389575235	CMakeFiles/Streaming_service.dir/Episode.cpp.obj	7c6e81755d15aee3
+43	909	7714920389938699	CMakeFiles/Streaming_service.dir/Serie.cpp.obj	2bbac529eae1a121
+19	1266	7714920389693019	CMakeFiles/Streaming_service.dir/main.cpp.obj	3a410e157c20dc36
+1267	1569	7714920402176584	Streaming_service.exe	7decba83eaf0f592
+63	612	7715379813570107	CMakeFiles/Streaming_service.dir/Movie.cpp.obj	78c6c157aca1e4e5
+51	616	7715379813455536	CMakeFiles/Streaming_service.dir/Episode.cpp.obj	7c6e81755d15aee3
+69	624	7715379813630103	CMakeFiles/Streaming_service.dir/Serie.cpp.obj	2bbac529eae1a121
+58	949	7715379813527394	CMakeFiles/Streaming_service.dir/main.cpp.obj	3a410e157c20dc36
+30	713	7715380198660017	CMakeFiles/Streaming_service.dir/Episode.cpp.obj	7c6e81755d15aee3
+46	739	7715380198828669	CMakeFiles/Streaming_service.dir/Movie.cpp.obj	78c6c157aca1e4e5
+59	805	7715380198950186	CMakeFiles/Streaming_service.dir/Video.cpp.obj	bddb8cf7387aefc8
+52	806	7715380198890061	CMakeFiles/Streaming_service.dir/Serie.cpp.obj	2bbac529eae1a121
+36	1113	7715380198723276	CMakeFiles/Streaming_service.dir/main.cpp.obj	3a410e157c20dc36

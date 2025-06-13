@@ -1,0 +1,3 @@
+C:/Users/X1504/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Escritorio/Streaming service/Streaming-service/cmake-build-debug/CMakeFiles/Streaming_service.dir
+C:/Users/X1504/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Escritorio/Streaming service/Streaming-service/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/X1504/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Escritorio/Streaming service/Streaming-service/cmake-build-debug/CMakeFiles/rebuild_cache.dir

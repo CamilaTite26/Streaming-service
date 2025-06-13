@@ -1,0 +1,14 @@
+ID: pelicula_1
+Nombre: Juego de Gemelas
+Duracion: 128.5
+Genero: Comedia, Familiar
+
+ID: pelicula_2
+Nombre: Harry Potter y el Prisionero de Azkaban
+Duracion: 142.0
+Genero: Fantasia, Aventura
+
+ID: pelicula_3
+Nombre: Barbie
+Duracion: 114.0
+Genero: Comedia, Fantasia
